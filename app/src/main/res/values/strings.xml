@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CPUscheduling</string>
+    <string name="compute">Compute</string>
+    <string name="average_turnaround_time">Average Turnaround time:</string>
+</resources>
